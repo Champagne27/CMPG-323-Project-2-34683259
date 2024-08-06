@@ -25,10 +25,10 @@
     - [Implementation](#implementation)
   
 ## Overview
-Greetings! Thank you for accessing the README for the NWU Tech Trends Project. This document offers a comprehensive outline of the project's goals, the extent of activities involved, and details on the utilization of the .Net Web API designed for streamlining data management. The primary objective of this initiative is to optimize the productivity and proficiency of data handling processes through the integration of contemporary technology and API functionalities. Please continue reading for further information.
+Greetings! Welcome to the README for the NWU Tech Trends Project. This document provides a detailed overview of the project's goals, scope, and the usage of the .Net Web API for enhancing data management. The main aim of this project is to improve the efficiency and effectiveness of data handling processes by integrating modern technology and API functionalities. Please read on for more information.
 
 ## Introduction
-The NWU Tech Trends Project centers around enhancing the supervision of data integration activities. This initiative encompasses the development of a .Net Core Web API, which interfaces with a database to streamline the handling of telemetry data effectively.
+The NWU Tech Trends Project focuses on improving the management of data integration activities. This initiative involves creating a .Net Core Web API that connects to a database to efficiently manage telemetry data.
 
 ## Branching Strategies to be Used
 
