@@ -1,26 +1,26 @@
 ![image](https://github.com/Champagne27/CMPG-323-Project-2-34683259/blob/main/image.png)
 # CMPG 323 Project-2-34683259
-# Table of Contents
-1. Overview
-2. Introduction
-3. Branching Strategies to be used
-   - Branching Types
-   - Main Branch
-   - Feature Branches
-   - Pull requests
-4. Project Objectives
-5. Specialization
-6. Technology Integration
-7. API Integration
-8. .Net Core Web API
-   - Get Endpoint
-   - Post Endpoint
-   - Patch Endpoint
-   - Delete Endpoint
-9. How to use this Project
-    - Review the Readme.
-    - Understand Data integration processes
-    - Explore API integration
-    - Study the .Net Core Web API
-    - Implementation
+### Table of Contents
+1. [Overview](#overview)
+2. [Introduction](#introduction)
+3. [Branching Strategies to be used](#branching-strategies-to-be-used)
+   - [Branching Types](#branching-types)
+   - [Main Branch](#main-branch)
+   - [Feature Branches](#feature-branches)
+   - [Pull requests](#pull-requests)
+4. [Project Objectives](#project-objectives)
+5. [Specialization](#specialization)
+6. [Technology Integration](#technology-integration)
+7. [API Integration](#api-integration)
+8. [.Net Core Web API](#net-core-web-api)
+   - [Get Endpoint](#get-endpoint)
+   - [Post Endpoint](#post-endpoint)
+   - [Patch Endpoint](#patch-endpoint)
+   - [Delete Endpoint](#delete-endpoint)
+9. [How to use this Project](#how-to-use-this-project)
+    - [Review the Readme.](#review-the-readme)
+    - [Understand Data integration processes](#understand-data-integration-processes)
+    - [Explore API integration](#explore-api-integration)
+    - [Study the .Net Core Web API](#study-the-net-core-web-api)
+    - [Implementation](#implementation)
   
