@@ -23,6 +23,7 @@
     - [Explore API integration](#explore-api-integration)
     - [Study the .Net Core Web API](#study-the-net-core-web-api)
     - [Implementation](#implementation)
+11. [Reference List](#reference-list)
   
 ## Overview
 Greetings! Welcome to the README for the NWU Tech Trends Project. This document provides a detailed overview of the project's goals, scope, and the usage of the .Net Web API for enhancing data management. The main aim of this project is to improve the efficiency and effectiveness of data handling processes by integrating modern technology and API functionalities. Please read on for more information.
@@ -51,3 +52,4 @@ The NWU Tech Trends Project focuses on improving the management of data integrat
 ### Explore API Integration
 ### Study the .Net Core Web API
 ### Implementation
+## Reference List
