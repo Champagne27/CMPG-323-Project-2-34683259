@@ -33,7 +33,7 @@ The NWU Tech Trends Project focuses on improving the management of data integrat
 
 ## Branching Strategies to be Used
 ![branching](https://github.com/Champagne27/CMPG-323-Project-2-34683259/blob/Develop/branching.png)
-
+We follow a feature branching strategy to manage code changes effectively. This strategy allows for parallel development while maintaining code quality and minimizing conflicts.
 ### Branch Types
 ### Main Branch
 - The `main` branch contains the production-ready code. All changes to this branch are thoroughly tested and reviewed.
