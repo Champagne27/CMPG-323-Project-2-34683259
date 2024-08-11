@@ -23,7 +23,8 @@
     - [Explore API integration](#explore-api-integration)
     - [Study the .Net Core Web API](#study-the-net-core-web-api)
     - [Implementation](#implementation)
-11. [Reference List](#reference-list)
+11. [Link for API](#link-for-api)
+12. [Reference List](#reference-list)
   
 ## Overview
 Greetings! Welcome to the README for the NWU Tech Trends Project. This document provides a detailed overview of the project's goals, scope, and the usage of the .Net Web API for enhancing data management. The main aim of this project is to improve the efficiency and effectiveness of data handling processes by integrating modern technology and API functionalities. Please read on for more information.
@@ -83,7 +84,8 @@ Understand the significance of API integration and how it improves data handling
 Review the provided .Net Core Web API endpoints to understand their functionalities for data management.
 ### Implementation
 If you're involved in the technical implementation, refer to the API documentation for integrating the provided endpoints with your systems.
-
+## Link for API
+[](https://project2nwutechtrends20240811105900.azurewebsites.net)
 ## Reference List
 1. 3 August CMPG323 weekly virtual class Intro to APIs. [online] Available at: https://www.youtube.com/watch?v=-kaBMzOPiP0 [Accessed 25 Aug. 2023].
 2. 10 Aug CMPG323 weekly virtual class API Controllers. [online] Available at: https://www.youtube.com/watch?v=kiSJGGy29fY [Accessed 25 Aug. 2023].
