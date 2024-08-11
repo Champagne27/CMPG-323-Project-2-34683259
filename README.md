@@ -33,15 +33,18 @@ The NWU Tech Trends Project focuses on improving the management of data integrat
 
 ## Branching Strategies to be Used
 ![branching](https://github.com/Champagne27/CMPG-323-Project-2-34683259/blob/Develop/branching.png)
-
+We follow a feature branching strategy to manage code changes effectively. This strategy allows for parallel development while maintaining code quality and minimizing conflicts.
 ### Branch Types
 ### Main Branch
 - The `main` branch contains the production-ready code. All changes to this branch are thoroughly tested and reviewed.
 ### Feature Branches
 - For each new feature, bug fix, or enhancement, create a new branch based on `main`. Use descriptive names that reflect the feature or issue being addressed (e.g., feature/user-authentication, bugfix/data-validation).
 ### Pull Requests
-- Once your feature is complete and ready for review, initiate a pull request from your feature branch to main. This process enables code review, discussion, and testing to take place before the final merge.
-  
+- Once your feature is complete and ready for review, initiate a pull request from your feature branch to `main`. This process enables code review, discussion, and testing to take place before the final merge.
+  #### Pull request must meet the following criteria:
+ - Code compiles without any errors or warnings
+ - Unit tests pass
+ - Code coverage is greater than 100%
 ## Project Objectives
 ### The main objectives of this project are as follows:
 Develop a .Net Core Web API that connects to a database, enabling the streamlined management of telemetry data.
