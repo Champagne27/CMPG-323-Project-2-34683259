@@ -32,6 +32,8 @@ Greetings! Welcome to the README for the NWU Tech Trends Project. This document 
 The NWU Tech Trends Project focuses on improving the management of data integration activities. This initiative involves creating a .Net Core Web API that connects to a database to efficiently manage telemetry data.
 
 ## Branching Strategies to be Used
+![branching](https://github.com/Champagne27/CMPG-323-Project-2-34683259/blob/Develop/branching.png)
+
 ### Branch Types
 ### Main Branch
 - The `main` branch contains the production-ready code. All changes to this branch are thoroughly tested and reviewed.
