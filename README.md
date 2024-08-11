@@ -80,12 +80,13 @@ Review the provided .Net Core Web API endpoints to understand their functionalit
 If you're involved in the technical implementation, refer to the API documentation for integrating the provided endpoints with your systems.
 
 ## Reference List
-1. www.youtube.com. (n.d.). 3 August CMPG323 weekly virtual class Intro to APIs. [online] Available at: https://www.youtube.com/watch?v=-kaBMzOPiP0 [Accessed 25 Aug. 2023].
-2. www.youtube.com. (n.d.). 10 Aug CMPG323 weekly virtual class API Controllers. [online] Available at: https://www.youtube.com/watch?v=kiSJGGy29fY [Accessed 25 Aug. 2023].
-3. www.youtube.com. (n.d.). 17 Aug CMPG323 weekly virtual class Cloud, deploy API. [online] Available at: https://www.youtube.com/watch?v=murThM9ATJA [Accessed 25 Aug. 2023]
-4. www.youtube.com. (n.d.). 24 Aug CMPG323 weekly virtual class API Security. [online] Available at: https://www.youtube.com/watch?v=tg_0o6U_J-w [Accessed 25 Aug. 2023].
+1. 3 August CMPG323 weekly virtual class Intro to APIs. [online] Available at: https://www.youtube.com/watch?v=-kaBMzOPiP0 [Accessed 25 Aug. 2023].
+2. 10 Aug CMPG323 weekly virtual class API Controllers. [online] Available at: https://www.youtube.com/watch?v=kiSJGGy29fY [Accessed 25 Aug. 2023].
+3. 17 Aug CMPG323 weekly virtual class Cloud, deploy API. [online] Available at: https://www.youtube.com/watch?v=murThM9ATJA [Accessed 25 Aug. 2023]
+4. 24 Aug CMPG323 weekly virtual class API Security. [online] Available at: https://www.youtube.com/watch?v=tg_0o6U_J-w [Accessed 25 Aug. 2023].
 5. Lutkevich, B. (2022). What Is an API (Application Program Interface)? [online] SearchAppArchitecture. Available at: https://www.techtarget.com/searchapparchitecture/definition/application-program-interface-API.
 6. Wickramasinghe, S. (2021). DevOps Branching Strategies Explained. [online] BMC Blogs. Available at: https://www.bmc.com/blogs/devops-branching-strategies/.
 7. tdykstra (2023). Create web APIs with ASP.NET Core. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-8.0.
 8. ByteByteGo (2022). What Is REST API? Examples And How To Use It: Crash Course System Design #3. [online] www.youtube.com. Available at: https://www.youtube.com/watch?v=-mN3VyJuCjM.
-9. 
+9. chatgpt (2024). Technical caveats. [online] Chatgpt. Available at: https://chatgpt.com/ [Accessed 08 Aug. 2024].
+10. bradygaster (2024). Deploy ASP.NET Core apps to Azure App Service. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/azure-apps/?view=aspnetcore-8.0&tabs=visual-studio [Accessed 11 Aug. 2024].
