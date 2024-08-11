@@ -40,8 +40,11 @@ We follow a feature branching strategy to manage code changes effectively. This 
 ### Feature Branches
 - For each new feature, bug fix, or enhancement, create a new branch based on `main`. Use descriptive names that reflect the feature or issue being addressed (e.g., feature/user-authentication, bugfix/data-validation).
 ### Pull Requests
-- Once your feature is complete and ready for review, initiate a pull request from your feature branch to main. This process enables code review, discussion, and testing to take place before the final merge.
-  
+- Once your feature is complete and ready for review, initiate a pull request from your feature branch to `main`. This process enables code review, discussion, and testing to take place before the final merge.
+  #### Pull request must meet the following criteria:
+ - Code compiles without any errors or warnings
+ - Unit tests pass
+ - Code coverage is greater than 100%
 ## Project Objectives
 ### The main objectives of this project are as follows:
 Develop a .Net Core Web API that connects to a database, enabling the streamlined management of telemetry data.
