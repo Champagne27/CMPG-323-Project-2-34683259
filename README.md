@@ -85,7 +85,7 @@ Review the provided .Net Core Web API endpoints to understand their functionalit
 ### Implementation
 If you're involved in the technical implementation, refer to the API documentation for integrating the provided endpoints with your systems.
 ## Link for API
-[](https://project2nwutechtrends20240811105900.azurewebsites.net)
+https://project2nwutechtrends20240811105900.azurewebsites.net
 ## Reference List
 1. 3 August CMPG323 weekly virtual class Intro to APIs. [online] Available at: https://www.youtube.com/watch?v=-kaBMzOPiP0 [Accessed 25 Aug. 2023].
 2. 10 Aug CMPG323 weekly virtual class API Controllers. [online] Available at: https://www.youtube.com/watch?v=kiSJGGy29fY [Accessed 25 Aug. 2023].
